@@ -14,7 +14,7 @@ public class hello {
         short sum = (short) (iceCreamFlavors + numberOfChildren);
         System.out.println(sum);
 
-        int a = 20;
+        int a = 200;    // Chase changed this value
         int b = 25;
         int c = 50;
         int d = 10;
