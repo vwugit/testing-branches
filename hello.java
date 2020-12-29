@@ -16,7 +16,7 @@ public class hello {
 
         int a = 200;    // Chase changed this value
         int b = 25;
-        int c = 50;
+        int c = 500;    // Chase changed this
         int d = 10;
 
         int product = a * d * b;    // Chase changed this product
