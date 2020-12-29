@@ -14,12 +14,12 @@ public class hello {
         short sum = (short) (iceCreamFlavors + numberOfChildren);
         System.out.println(sum);
 
-        int a = 200;    // Chase changed this value
+        int a = 200;
         int b = 25;
         int c = 50;
         int d = 10;
 
-        int product = a * d * b;    // Chase changed this product
+        int product = a * d;
         System.out.println(product);
 
         int sum2 = b + c;
@@ -28,8 +28,5 @@ public class hello {
         int sum3 = c/d;
         System.out.println(sum3);
 
-        // this is a comment to see if it conflicts
     }
 }
-
-// this is another comment to see if it conflicts with anything
