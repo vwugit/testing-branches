@@ -19,7 +19,7 @@ public class hello {
         int c = 50;
         int d = 10;
 
-        int product = a * d;
+        int product = a * d * b;    // Chase changed this product
         System.out.println(product);
 
         int sum2 = b + c;
@@ -27,7 +27,9 @@ public class hello {
 
         int sum3 = c/d;
         System.out.println(sum3);
+
+        // this is a comment to see if it conflicts
     }
 }
 
-// this is a comment to see if it conflicts with anything
+// this is another comment to see if it conflicts with anything
