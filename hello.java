@@ -19,7 +19,12 @@ public class hello {
         int c = 50;
         int d = 10;
 
-        int product = a * d;
+        System.out.println(a * d);
+        System.out.println(b + c);
+        System.out.println(c/d);
+        
+        int product = a * d * b;    // Chase changed this product
+
         System.out.println(product);
 
         int sum2 = b + c;
